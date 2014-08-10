@@ -310,7 +310,7 @@
 /* Begin PBXProject section */
 		08FB7793FE84155DC02AAC07 /* Project object */ = {
 			isa = PBXProject;
-			buildConfigurationList = 1DEB923508733DC60010E9CD /* Build configuration list for PBXProject "Pterodactyl" */;
+			buildConfigurationList = 1DEB923508733DC60010E9CD /* Build configuration list for PBXProject "Pterodactyl_xcode3.2" */;
 			compatibilityVersion = "Xcode 3.1";
 			developmentRegion = English;
 			hasScannedForEncodings = 1;
@@ -420,7 +420,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1DEB923508733DC60010E9CD /* Build configuration list for PBXProject "Pterodactyl" */ = {
+		1DEB923508733DC60010E9CD /* Build configuration list for PBXProject "Pterodactyl_xcode3.2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1DEB923608733DC60010E9CD /* Debug */,
